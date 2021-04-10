@@ -25,6 +25,7 @@
     "react-scripts": "4.0.3",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
+    "sass": "^1.32.8",
     "server": "npx json-server --watch public/db.json --port=3001",
     "web-vitals": "^1.0.1"
   },
